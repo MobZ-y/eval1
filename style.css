@@ -1,0 +1,28 @@
+/********Global settings*******/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+body {
+  background-color: rgb(252, 252, 252);
+}
+/********navbar*******/
+.navbar {
+  padding: 25px;
+  background-color: rgb(41, 143, 41);
+}
+.navbar ul {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar li {
+  font-size: 1.5rem;
+  padding: 10px;
+}
